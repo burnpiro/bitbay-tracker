@@ -1,5 +1,5 @@
 {
-  "name": "react-redux-chrome-extension-boilerplate",
+  "name": "bitbay-tracker",
   "version": "0.1.0",
   "private": true,
   "dependencies": {
