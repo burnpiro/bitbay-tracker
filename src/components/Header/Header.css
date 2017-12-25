@@ -1,0 +1,12 @@
+.Header {
+  background-color: #2c3d61;
+  height: 48px;
+  color: white;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+}
+
+.Header-title {
+  font-size: 1.5em;
+}
